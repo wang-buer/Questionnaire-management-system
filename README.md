@@ -1,10 +1,4 @@
-# 问卷调查管理系统
-
-## 获取方式
-
-扫描下方，回复关键词  ： “**问卷1**”   
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+# 问卷调查管理系统1
 
 ## 1、项目介绍
 
@@ -35,45 +29,42 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206092058425.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202206092058425.jpg)
 
 ### 4.2前端模块
 
-![前端](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206092059470.jpg)
+![前端](https://www.codeshop.fun/Typora-Images/202206092059470.jpg)
 
 ### 4.3 用户模块
 
-![用户-查看所有问卷](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206092100131.jpg)
+![用户-查看所有问卷](https://www.codeshop.fun/Typora-Images/202206092100131.jpg)
 
-![用户-我的问卷](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206092100842.jpg)
+![用户-我的问卷](https://www.codeshop.fun/Typora-Images/202206092100842.jpg)
 
-![用户-填写问卷](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206092100673.jpg)
+![用户-填写问卷](https://www.codeshop.fun/Typora-Images/202206092100673.jpg)
 
-![用户-发布问卷](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206092100025.jpg)
+![用户-发布问卷](https://www.codeshop.fun/Typora-Images/202206092100025.jpg)
 
 用户可以填写问卷，发布问卷。问卷类型有单选、多选、填空、问答等。还可以查看自己发布的问卷统计结果
 
 ### 4.4 管理员模块
 
-![管理员-添加用户](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206092101409.jpg)
+![管理员-添加用户](https://www.codeshop.fun/Typora-Images/202206092101409.jpg)
 
-![管理员-用户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206092101759.jpg)
+![管理员-用户管理](https://www.codeshop.fun/Typora-Images/202206092101759.jpg)
 
-![管理员-问卷管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206092101733.jpg)
+![管理员-问卷管理](https://www.codeshop.fun/Typora-Images/202206092101733.jpg)
 
-![管理员-问卷结果统计](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206092101597.jpg)
+![管理员-问卷结果统计](https://www.codeshop.fun/Typora-Images/202206092101597.jpg)
 
 管理员可以管理用户，同时可以管理所有问卷，查看所有问卷的最终统计结果等功能
 
 ### 4.4 设计文档目录
 
-![设计文档目录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206092104569.jpg)
+![设计文档目录](https://www.codeshop.fun/Typora-Images/202206092104569.jpg)
 
-## 5、获取方式
+## 获取方式
 
-扫描下方，回复关键词  ： “**问卷1**”   
+下方扫一扫关注后，后台回复关键词：**问卷**，查看导入教程视频、sql脚本和源码等
 
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
